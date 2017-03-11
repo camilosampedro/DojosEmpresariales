@@ -1,0 +1,3 @@
+[submodule "DojoScala"]
+	path = DojoScala
+	url = git@github.com:camilosampedro/DojoScala.git
