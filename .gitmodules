@@ -1,3 +1,6 @@
 [submodule "DojoScala"]
 	path = DojoScala
 	url = git@github.com:camilosampedro/DojoScala.git
+[submodule "DojoGo"]
+	path = DojoGo
+	url = git@github.com:camilosampedro/DojoGo.git
